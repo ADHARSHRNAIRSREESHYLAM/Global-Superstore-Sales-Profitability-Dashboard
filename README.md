@@ -33,11 +33,13 @@ Global-Superstore-Sales-Profitability-Dashboard/
 
 │
 
-├── Sales Data Set for Dashboard.xlsx      # Retail Transaction Dataset
+├── Superstore report.pbix                 # Interactive Power BI Dashboard
 
-├── sales_dashboard_powerbi.pbix           # Interactive Power BI Dashboard
+├── Superstore_sales_report.pdf/           # Project Documentation & LaTeX files
 
-├── Report/                                # Project Documentation & LaTeX files
+├── superstore report.png                  # Report Picture
+
+├── superstore.csv                         # Retail Transaction Dataset
 
 └── README.md                              # Project Documentat
 
