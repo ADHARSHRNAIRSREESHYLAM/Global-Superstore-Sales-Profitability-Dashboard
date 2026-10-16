@@ -29,11 +29,13 @@ Designed following modern UI/UX principles (F-pattern layout, custom container g
  📂 Project Structure
  
 Global-Superstore-Sales-Profitability-Dashboard/
+
+
 │
 ├── Sales Data Set for Dashboard.xlsx      # Retail Transaction Dataset
 ├── sales_dashboard_powerbi.pbix           # Interactive Power BI Dashboard
 ├── Report/                                # Project Documentation & LaTeX files
-└── README.md                              # Project Documentation
+└── README.md                              # Project Documentat
 
 📁 Dataset Description
 
