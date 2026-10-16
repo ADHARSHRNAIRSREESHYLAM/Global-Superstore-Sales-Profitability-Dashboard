@@ -1,6 +1,7 @@
 # 📊 Global-Superstore-Sales-Profitability-Dashboard
 
  📌 Project Overview
+ 
 This project focuses on analyzing retail sales data using Microsoft Power BI to build an interactive, executive-grade dashboard. The objective is to uncover critical business insights related to sales performance, regional profitability, product categories, and shipping dynamics. 
 
 Designed following modern UI/UX principles (F-pattern layout, custom container grouping, and a professional Navy & Slate color palette), this project demonstrates how data visualization transforms raw retail transactions into actionable intelligence that supports strategic decision-making.
