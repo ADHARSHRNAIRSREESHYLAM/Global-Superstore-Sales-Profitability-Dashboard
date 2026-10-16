@@ -32,6 +32,7 @@ Global-Superstore-Sales-Profitability-Dashboard/
 
 
 │
+
 ├── Sales Data Set for Dashboard.xlsx      # Retail Transaction Dataset
 
 ├── sales_dashboard_powerbi.pbix           # Interactive Power BI Dashboard
