@@ -95,16 +95,3 @@ Time-Series Forecasting: Implementing Power BI built-in forecasting features to 
 Customer Segmentation: Adding RFM (Recency, Frequency, Monetary) analysis pages for customer tiering.
 
 Advanced Drill-Throughs: Building multi-page drill-through reports for deeper regional and sub-category auditing.
-
-📚 References & Documentation
-
-Microsoft Power BI Documentation: https://learn.microsoft.com/power-bi/
-
-DAX Function Reference: https://learn.microsoft.com/dax/
-
-Reference Layout Frameworks: Sales Dashboard Analysis Repository
-
-👩‍💻 Author
-Adharsh R Nair
-
-Superstore sales and profit report
