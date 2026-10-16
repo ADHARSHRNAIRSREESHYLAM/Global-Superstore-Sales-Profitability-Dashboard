@@ -35,7 +35,7 @@ Global-Superstore-Sales-Profitability-Dashboard/
 
 ├── Superstore report.pbix                 # Interactive Power BI Dashboard
 
-├── Superstore_sales_report.pdf/           # Project Documentation & LaTeX files
+├── Superstore_sales_report.pdf            # Project Documentation & LaTeX files
 
 ├── superstore report.png                  # Report Picture
 
